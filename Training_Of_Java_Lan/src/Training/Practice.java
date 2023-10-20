@@ -5,7 +5,10 @@ public class Practice {
 	public void username(int u) {
 		System.out.println("This is Username Method");
 	}
-
+	
+	public void username(int u,int y) {
+		System.out.println("This is Username Method");
+	}
 	public void username() {
 		System.out.println("This is Username Method 2");
 	}
